@@ -25,13 +25,13 @@
                 },
                 {
                     "id": 2,
-                    "title": "Sintel",
-                    "description": "A girl searches for her dragon",
-                    "thumbnailUrl": "https://img.youtube.com/vi/eRsGyueVLvQ/mqdefault.jpg",
-                    "youtubeVideoId": "eRsGyueVLvQ",
-                    "category": "Animation",
+                    "title": "Phir Hera Pheri",
+                    "description": "भाग्य का एक मोड़ राजू, श्याम और बाबूराव के जीवन को बदल देता है जब उन्हें एक धोखेबाज ने धोखा दिया। उन्हें अब एक खूंखार गैंगस्टर से लिया गया कर्ज चुकाने का दूसरा रास्ता खोजना होगा।",
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTNkZTExMWYtMGZjMy00NGUwLWJmMWEtOThjYmZjY2Q0N2M5XkEyXkFqcGc@._V1_.jpg",
+                    "youtubeVideoId": "Us6pVG4NK8Q",
+                    "category": "Comedy",
                     "year": 2010,
-                    "rating": 4.7
+                    "rating": 7.4
                 },
                 {
                     "id": 3,
@@ -288,6 +288,7 @@
     ]
 
 }
+
 
 
 
