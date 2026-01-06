@@ -13,8 +13,18 @@
         {
             "categoryName": "Trending Now",
             "movies": [
-                {
+                  {
                     "id": 1,
+                    "title": "Jayanti ",
+                    "description": "A murder in the neighborhood poses a serious identity challenge before young and aggressive Santya, whose wasteful life gets a meaning after learning about the lives and works of Chhatrapati Shivaji Maharaj and Dr B R Ambedkar.",
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjJkM2RkMWEtN2E4Zi00YjY5LWFjY2MtNjFmMzg5NTVmYzFiXkEyXkFqcGc@._V1_.jpg",
+                    "youtubeVideoId": "yzMRg4CxXO0",
+                    "category": "",
+                    "year": 2021,
+                    "rating": 8.2
+                },
+                {
+                    "id": 2,
                     "title": "Action",
                     "description": "An agent, sent by the Indian army to observe a terrorist, finds his mission complicated when he discovers undercover agents in his own country.",
                     "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTkyMmFiODQtMjc5YS00MzE2LTg4ZDctOTI5MTg5ZTQzZDM2XkEyXkFqcGc@._V1_.jpg",
@@ -24,7 +34,7 @@
                     "rating": 4.8
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "title": "Phir Hera Pheri",
                     "description": "भाग्य का एक मोड़ राजू, श्याम और बाबूराव के जीवन को बदल देता है जब उन्हें एक धोखेबाज ने धोखा दिया। उन्हें अब एक खूंखार गैंगस्टर से लिया गया कर्ज चुकाने का दूसरा रास्ता खोजना होगा।",
                     "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTNkZTExMWYtMGZjMy00NGUwLWJmMWEtOThjYmZjY2Q0N2M5XkEyXkFqcGc@._V1_.jpg",
@@ -32,51 +42,23 @@
                     "category": "Comedy",
                     "year": 2010,
                     "rating": 7.4
-                },
-                {
-                    "id": 3,
-                    "title": "Tears of Steel",
-                    "description": "Sci-fi short film",
-                    "thumbnailUrl": "https://img.youtube.com/vi/R6MlUcmOul8/mqdefault.jpg",
-                    "youtubeVideoId": "R6MlUcmOul8",
-                    "category": "Sci-Fi",
-                    "year": 2012,
-                    "rating": 4.3
-                },
-                {
-                    "id": 4,
-                    "title": "Elephant Dream",
-                    "description": "First Blender open movie",
-                    "thumbnailUrl": "https://img.youtube.com/vi/TLkA0RELQ1g/mqdefault.jpg",
-                    "youtubeVideoId": "TLkA0RELQ1g",
-                    "category": "Animation",
-                    "year": 2006,
-                    "rating": 4.2
-                },
-                {
-                    "id": 5,
-                    "title": "Cosmos Laundromat",
-                    "description": "A sheep's existential journey",
-                    "thumbnailUrl": "https://img.youtube.com/vi/Y-rmzh0PI3c/mqdefault.jpg",
-                    "youtubeVideoId": "Y-rmzh0PI3c",
-                    "category": "Animation",
-                    "year": 2015,
-                    "rating": 4.6
                 }
+                
+           
             ]
         },
         {
             "categoryName": "Action & Adventure",
             "movies": [
-                {
-                    "id": 6,
-                    "title": "Agent 327",
-                    "description": "Secret agent adventure",
-                    "thumbnailUrl": "https://img.youtube.com/vi/mN0zPOpADL4/mqdefault.jpg",
-                    "youtubeVideoId": "mN0zPOpADL4",
+             {
+                    "id": 1,
+                    "title": "Action",
+                    "description": "An agent, sent by the Indian army to observe a terrorist, finds his mission complicated when he discovers undercover agents in his own country.",
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTkyMmFiODQtMjc5YS00MzE2LTg4ZDctOTI5MTg5ZTQzZDM2XkEyXkFqcGc@._V1_.jpg",
+                    "youtubeVideoId": "Vf5IcdOxJQk",
                     "category": "Action",
-                    "year": 2017,
-                    "rating": 4.4
+                    "year": 2019,
+                    "rating": 4.8
                 },
                 {
                     "id": 7,
@@ -288,7 +270,6 @@
     ]
 
 }
-
 
 
 
