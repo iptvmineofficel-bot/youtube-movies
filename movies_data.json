@@ -59,46 +59,6 @@
                     "category": "Action",
                     "year": 2019,
                     "rating": 4.8
-                },
-                {
-                    "id": 7,
-                    "title": "Spring",
-                    "description": "A shepherd dog's adventure",
-                    "thumbnailUrl": "https://img.youtube.com/vi/WhWc3b3KhnY/mqdefault.jpg",
-                    "youtubeVideoId": "WhWc3b3KhnY",
-                    "category": "Action",
-                    "year": 2019,
-                    "rating": 4.5
-                },
-                {
-                    "id": 8,
-                    "title": "Hero",
-                    "description": "An epic tale of courage",
-                    "thumbnailUrl": "https://img.youtube.com/vi/pKmSdY56VtY/mqdefault.jpg",
-                    "youtubeVideoId": "pKmSdY56VtY",
-                    "category": "Action",
-                    "year": 2018,
-                    "rating": 4.3
-                },
-                {
-                    "id": 9,
-                    "title": "Glass Half",
-                    "description": "A story of perspective",
-                    "thumbnailUrl": "https://img.youtube.com/vi/lqiN98z6Dak/mqdefault.jpg",
-                    "youtubeVideoId": "lqiN98z6Dak",
-                    "category": "Action",
-                    "year": 2015,
-                    "rating": 4.1
-                },
-                {
-                    "id": 10,
-                    "title": "Caminandes: Llamigos",
-                    "description": "Llama adventures",
-                    "thumbnailUrl": "https://img.youtube.com/vi/SkVqJ1SGeL0/mqdefault.jpg",
-                    "youtubeVideoId": "SkVqJ1SGeL0",
-                    "category": "Action",
-                    "year": 2016,
-                    "rating": 4.2
                 }
             ]
         },
@@ -116,44 +76,14 @@
                     "rating": 7.5
                 },
                 {
-                    "id": 12,
-                    "title": "Caminandes: Llama Drama",
-                    "description": "More llama fun",
-                    "thumbnailUrl": "https://img.youtube.com/vi/Z4C82eyhwgU/mqdefault.jpg",
-                    "youtubeVideoId": "Z4C82eyhwgU",
+                    "id": 2,
+                    "title": "Mad",
+                    "description": "Set in an engineering college and revolves around the antics of the students there, primarily the boys, who get a kick out of torturing the hostel warden.",
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzRhYzQxN2MtMDM5Yi00OThlLWFmMzAtYjc3YWMwNWM4M2ZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                    "youtubeVideoId": "pJJnFHxdljI",
                     "category": "Comedy",
-                    "year": 2015,
-                    "rating": 4.5
-                },
-                {
-                    "id": 13,
-                    "title": "Sprite Fright",
-                    "description": "Spooky comedy adventure",
-                    "thumbnailUrl": "https://img.youtube.com/vi/jNQXAC9IVRw/mqdefault.jpg",
-                    "youtubeVideoId": "jNQXAC9IVRw",
-                    "category": "Comedy",
-                    "year": 2021,
-                    "rating": 4.4
-                },
-                {
-                    "id": 14,
-                    "title": "Coffee Run",
-                    "description": "A caffeinated adventure",
-                    "thumbnailUrl": "https://img.youtube.com/vi/_cMxraX_5RE/mqdefault.jpg",
-                    "youtubeVideoId": "_cMxraX_5RE",
-                    "category": "Comedy",
-                    "year": 2020,
-                    "rating": 4.3
-                },
-                {
-                    "id": 15,
-                    "title": "Charge",
-                    "description": "Electric comedy",
-                    "thumbnailUrl": "https://img.youtube.com/vi/UXqq0ZvbOnk/mqdefault.jpg",
-                    "youtubeVideoId": "UXqq0ZvbOnk",
-                    "category": "Comedy",
-                    "year": 2022,
-                    "rating": 4.2
+                    "year": 2023,
+                    "rating": 7.3
                 }
             ]
         },
@@ -161,54 +91,14 @@
             "categoryName": "Sci-Fi & Fantasy",
             "movies": [
                 {
-                    "id": 16,
-                    "title": "Tears of Steel",
-                    "description": "Robots and emotions",
-                    "thumbnailUrl": "https://img.youtube.com/vi/R6MlUcmOul8/mqdefault.jpg",
-                    "youtubeVideoId": "R6MlUcmOul8",
+                    "id": 1,
+                    "title": "JANGO",
+                    "description": "A neurosurgeon who is stuck in a time loop tries to save his estranged wife from being killed by a mystery man.",
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTVjYmRmZDMtYjJiMS00OGQ4LWJkMWQtOWNiYTBlMmE3MjI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+                    "youtubeVideoId": "icLsR5Z2y20",
                     "category": "Sci-Fi",
-                    "year": 2012,
-                    "rating": 4.5
-                },
-                {
-                    "id": 17,
-                    "title": "Cosmos Laundromat",
-                    "description": "Existential sci-fi",
-                    "thumbnailUrl": "https://img.youtube.com/vi/Y-rmzh0PI3c/mqdefault.jpg",
-                    "youtubeVideoId": "Y-rmzh0PI3c",
-                    "category": "Sci-Fi",
-                    "year": 2015,
-                    "rating": 4.7
-                },
-                {
-                    "id": 18,
-                    "title": "Project London",
-                    "description": "Futuristic adventure",
-                    "thumbnailUrl": "https://img.youtube.com/vi/LsGZ_2RuJ2A/mqdefault.jpg",
-                    "youtubeVideoId": "LsGZ_2RuJ2A",
-                    "category": "Sci-Fi",
-                    "year": 2014,
-                    "rating": 4.2
-                },
-                {
-                    "id": 19,
-                    "title": "Elephants Dream",
-                    "description": "Surreal sci-fi",
-                    "thumbnailUrl": "https://img.youtube.com/vi/TLkA0RELQ1g/mqdefault.jpg",
-                    "youtubeVideoId": "TLkA0RELQ1g",
-                    "category": "Sci-Fi",
-                    "year": 2006,
-                    "rating": 4.3
-                },
-                {
-                    "id": 20,
-                    "title": "Wing It!",
-                    "description": "Flying adventure",
-                    "thumbnailUrl": "https://img.youtube.com/vi/UXqq0ZvbOnk/mqdefault.jpg",
-                    "youtubeVideoId": "UXqq0ZvbOnk",
-                    "category": "Sci-Fi",
-                    "year": 2023,
-                    "rating": 4.1
+                    "year": 2021,
+                    "rating": 5.1
                 }
             ]
         },
@@ -216,55 +106,26 @@
             "categoryName": "Drama",
             "movies": [
                 {
-                    "id": 21,
-                    "title": "Sintel",
-                    "description": "Emotional dragon tale",
-                    "thumbnailUrl": "https://img.youtube.com/vi/eRsGyueVLvQ/mqdefault.jpg",
-                    "youtubeVideoId": "eRsGyueVLvQ",
+                    "id": 1,
+                    "title": "Maayon",
+                    "description": "A gang of idol smugglers plan to steal a hidden treasure in an ancient Hindu temple, that has mysterious secrets. What happens next ?",
+                    "thumbnailUrl": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/maayon-telugu-et00315511-1655886857.jpg",
+                    "youtubeVideoId": "GeaLykqsOf4",
                     "category": "Drama",
-                    "year": 2010,
-                    "rating": 4.8
+                    "year": 2022,
+                    "rating": 5.8
                 },
                 {
-                    "id": 22,
-                    "title": "Spring",
-                    "description": "A touching story",
-                    "thumbnailUrl": "https://img.youtube.com/vi/WhWc3b3KhnY/mqdefault.jpg",
-                    "youtubeVideoId": "WhWc3b3KhnY",
+                    "id": 2,
+                    "title": "Kee",
+                    "description": "A man falls in love with a girl and tries to impress her. However, their life takes a serious turn when they fall victim to cyber-bullying.",
+                    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzRkOTA2N2YtNWZjMy00MzY1LWE2MTEtNGMwNWM5NjcxM2QzXkEyXkFqcGc@._V1_.jpg",
+                    "youtubeVideoId": "6bD5FjOtK7I",
                     "category": "Drama",
                     "year": 2019,
-                    "rating": 4.6
-                },
-                {
-                    "id": 23,
-                    "title": "Glass Half",
-                    "description": "Perspective drama",
-                    "thumbnailUrl": "https://img.youtube.com/vi/lqiN98z6Dak/mqdefault.jpg",
-                    "youtubeVideoId": "lqiN98z6Dak",
-                    "category": "Drama",
-                    "year": 2015,
-                    "rating": 4.4
-                },
-                {
-                    "id": 24,
-                    "title": "Hero",
-                    "description": "A tale of sacrifice",
-                    "thumbnailUrl": "https://img.youtube.com/vi/pKmSdY56VtY/mqdefault.jpg",
-                    "youtubeVideoId": "pKmSdY56VtY",
-                    "category": "Drama",
-                    "year": 2018,
-                    "rating": 4.5
-                },
-                {
-                    "id": 25,
-                    "title": "The Daily Dweebs",
-                    "description": "Everyday drama",
-                    "thumbnailUrl": "https://img.youtube.com/vi/qASxcvvGrBo/mqdefault.jpg",
-                    "youtubeVideoId": "qASxcvvGrBo",
-                    "category": "Drama",
-                    "year": 2017,
-                    "rating": 4.2
+                    "rating": 5.6
                 }
+          
             ]
         }
     ]
